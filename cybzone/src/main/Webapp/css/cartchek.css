@@ -1,0 +1,21 @@
+@charset "ISO-8859-1";
+.main{
+    width: 60%;
+    margin: auto;
+
+}
+.checkout-container{
+    display: flex;
+    align-items: center;
+    justify-content: normal;
+    height: 40vh;
+}
+.flex{
+     display: flex;
+    align-items: center;
+    justify-content: normal;
+    height: 2.5rem;
+}
+label{
+    width: 6rem;
+}

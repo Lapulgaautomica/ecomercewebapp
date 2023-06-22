@@ -1,0 +1,30 @@
+@charset "ISO-8859-1";
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Maven Pro', sans-serif;
+}
+.cart{
+    width: 80%;
+    margin: auto;
+
+}
+.frm{
+    width: 70%;
+    height: 50vh;
+    margin: 2rem;
+}
+table{
+    width: 100%;
+    
+}
+table td{
+    text-align: center;
+    margin: 1rem;
+    padding: 2rem;
+}
+.check{
+    margin: 2rem 4rem;
+}
